@@ -4,7 +4,7 @@
 
 ## Syllabus:
 
-[Syllabus](slide/DataScience_Syllabus_2024s2_v2.pdf)
+[Syllabus](slide/DSDE_Syllabus_2024s2.pdf)
 
 ## Code:
 
