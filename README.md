@@ -56,53 +56,53 @@ Assignment: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/211044
 
 9. Market-Basket Analysis: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week03_ML/9_Market_Basket_Intro_v2.ipynb)
 
-10. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week03_ML/10_Scikit_learn_Pipeline.ipynb)
+10. Scikit-learn pipeline: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week03_ML/10_Scikit_learn_Pipeline.ipynb)
 
 ### Week04-05: Intro to Deep Learning
 
-1. Image classification (basic): CIFAR10: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/1_Image_classification_CIFAR10_CNN.ipynb)
+1. Image classification (basic): CIFAR10: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/1_Image_classification_CIFAR10_CNN.ipynb)
 
-2. Image classification (advanced): Animal: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/2_Image_classification_Animal_EfficientNetV2.ipynb)
+2. Image classification (advanced): Animal: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/2_Image_classification_Animal_EfficientNetV2.ipynb)
 
-3-1. Object detection: VOCDetection: FasterRCNN (Obsolete): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/3_1_Object_detection_VOCDetection_FasterRCNN_MobileNet_V3.ipynb)
+3-1. Object detection: VOCDetection: FasterRCNN (Obsolete): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/3_1_Object_detection_VOCDetection_FasterRCNN_MobileNet_V3.ipynb)
 
-3-2. Object detection: VOCDetection (basic): YOLOv8 (basic script): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/3_2_Object_detection_VOCDetection_yolov8_basic.ipynb)
+3-2. Object detection: VOCDetection (basic): YOLOv8 (basic script): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/3_2_Object_detection_VOCDetection_yolov8_basic.ipynb)
 
-3-3. Object detection: VOCDetection (advanced): YOLOv8 (custom dataset): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/3_3_Object_detection_VOCDetection_yolov8_advanced.ipynb)
+3-3. Object detection: VOCDetection (advanced): YOLOv8 (custom dataset): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/3_3_Object_detection_VOCDetection_yolov8_advanced.ipynb)
 
-4. Semantic segmentation: CamSeq2007: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/4_Semantic_segmentation_Camseq_deeplabv3_DataInGD.ipynb)
+4. Semantic segmentation: CamSeq2007: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/4_Semantic_segmentation_Camseq_deeplabv3_DataInGD.ipynb)
 
-5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/5_Time_series_forecasting_DataInGD.ipynb)
+5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/5_Time_series_forecasting_DataInGD.ipynb)
 
 ### Week05: Advanced ML (Transformer, Model Monitoring, Text Classification, GenerativeAI)
 
-1. Image classification with Hugging Face: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/1_Huggingface_image_classification.ipynb)
+1. Image classification with Hugging Face: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/1_Huggingface_image_classification.ipynb)
 
-2-1. Model Monitoring with MLflow: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/2_1_MLflow.ipynb)
+2-1. Model Monitoring with MLflow: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/2_1_MLflow.ipynb)
 
-2-2. Model Monitoring with Tensorboard: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/2_2_Image_classification_Animal_EfficientNetB1_Tensorboard.ipynb)
+2-2. Model Monitoring with Tensorboard: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/2_2_Image_classification_Animal_EfficientNetB1_Tensorboard.ipynb)
 
-2-3. Model Monitoring with Weight and Biases: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/2_3_Image_classification_Animal_EfficientNetB1_WandB.ipynb)
+2-3. Model Monitoring with Weight and Biases: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/2_3_Image_classification_Animal_EfficientNetB1_WandB.ipynb)
 
-3-1. Stable_Diffusion: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1shlp0S2Kjh14TsFNU9P_sjQBPkFWML44/view?usp=sharing)
+3-1. Stable_Diffusion: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1shlp0S2Kjh14TsFNU9P_sjQBPkFWML44/view?usp=sharing)
 
-3-2. Controlnet: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1ss84x-uRtDx32ZyKUoVMMISyAtUrY0uP/view?usp=sharing)
+3-2. Controlnet: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1ss84x-uRtDx32ZyKUoVMMISyAtUrY0uP/view?usp=sharing)
 
-3-3. Dreambooth: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1qE78qIHMy9hT6saabSavkY5sIrEmn1tf/view?usp=sharing)
+3-3. Dreambooth: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1qE78qIHMy9hT6saabSavkY5sIrEmn1tf/view?usp=sharing)
 
-3-4. Textual_Inversion: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1rLPmi5XIi_31Zfy6Q40rAXedQzsws4KH/view?usp=sharing)
+3-4. Textual_Inversion: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://drive.google.com/file/d/1rLPmi5XIi_31Zfy6Q40rAXedQzsws4KH/view?usp=sharing)
 
-4-1. Text Classification (TF-IDF): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/4_1_tfidf_for_Sentiment_Analysis.ipynb)
+4-1. Text Classification (TF-IDF): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/4_1_tfidf_for_Sentiment_Analysis.ipynb)
 
-4-2. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/4_2_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb)
+4-2. Text Classification (BERT): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/4_2_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb)
 
-5-1. LLMs API: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/5_1_LLM_API.ipynb)
+5-1. LLMs API: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/5_1_LLM_API.ipynb)
 
-5-2. OpenAI ChatGPT (Simulated Toyota data): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/5_2_OpenAI_ChatGPT_Toyota.ipynb)
+5-2. OpenAI ChatGPT (Simulated Toyota data): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/5_2_OpenAI_ChatGPT_Toyota.ipynb)
 
-5-3. Langchain tutorial: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/5_3_Langchain_tutorial_2024.ipynb)
+5-3. Langchain tutorial: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/5_3_Langchain_tutorial_2024.ipynb)
 
-5-4. Finetuning GPT-4o: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/5_4_Finetune_GPT4_O.ipynb)
+5-4. Finetuning GPT-4o: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/5_4_Finetune_GPT4_O.ipynb)
 
 ### Week06: Big Data Architecture and Data Storage
 
