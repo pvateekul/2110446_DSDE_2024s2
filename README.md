@@ -44,7 +44,7 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://github.com
 
 4. Neural Network: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week03_ML/4_Neural_Network_v3.ipynb)
 
-5. K Nearest Neighbors (GridSearchCV): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week03_ML/5_K_Nearest_Neighbors_v2.ipynb)
+5. K Nearest Neighbors (GridSearchCV): [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week03_ML/5_K_Nearest_Neighbors_v2_update_09012025.ipynb)
 
 6. SVM: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week03_ML/6_Support_Vector_Machine_v2.ipynb)
 
