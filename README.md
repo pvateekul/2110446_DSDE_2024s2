@@ -73,8 +73,7 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://github.com
 
 ### Week05: Advanced ML (Transformer, Model Monitoring, Text Classification, GenerativeAI)
 
-1. Image classification with Hugging Face: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)]
-(https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/1_Huggingface_image_classification_2024.ipynb)
+1. Image classification with Hugging Face: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/1_Huggingface_image_classification_2024.ipynb)
 <!--
 2-1. Model Monitoring with MLflow: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/2_1_MLflow_2024.ipynb)
 
