@@ -71,7 +71,7 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://github.com
 5. Time series Forecasting: Stock Price: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2023s2/main/img/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week04_DL/5_Time_series_forecasting_DataInGD_update.ipynb)
 
 
-### Week05: Advanced ML (Transformer, Model Monitoring, Text Classification, GenerativeAI)
+### Week06: Advanced ML (Transformer, Model Monitoring, Text Classification, GenerativeAI)
 
 1. Image classification with Hugging Face: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/1_Huggingface_image_classification_2024.ipynb)
 
