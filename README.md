@@ -75,11 +75,11 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://github.com
 
 1. Image classification with Hugging Face: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/1_Huggingface_image_classification_2024.ipynb)
 
-2. Text Classification (TF-IDF):[![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github.com/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/4_1_tfidf_for_Sentiment_Analysis.ipynb)
+2. Text Classification (TF-IDF):[![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/4_1_tfidf_for_Sentiment_Analysis.ipynb)
    
-3. Text Classification (BERT):[![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github.com/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/4_2_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb)
+3. Text Classification (BERT):[![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/4_2_NLP_Transfer_Learning_for_Text_Classification_Using_Hugging_Face_Transformers_Trainer.ipynb)
    
-4. Text Classification (Phayathaibert):[![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github.com/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/4_3_Wongnai_Review_Rating_Classifiacation_(Pytorch_lightning).ipynb)
+4. Text Classification (Phayathaibert):[![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/4_3_Wongnai_Review_Rating_Classifiacation_(Pytorch_lightning).ipynb)
    
 <!--
 2-1. Model Monitoring with MLflow: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/2_1_MLflow_2024.ipynb)
