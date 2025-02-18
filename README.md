@@ -89,3 +89,13 @@ Assignment (Pandas with Youtube stat data): [![Open In Colab](https://github.com
 2-3. Model Monitoring with Weight and Biases: [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week05_AdvancedML/2_3_Image_classification_Animal_EfficientNetB1_WandB.ipynb)
 
 -->
+
+### Week06: Introduction to Data Engineering / Data Extraction
+
+1. Basic Web Scraping [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week06_Architecture_and_DataExtraction/1_basic_web_scraping.ipynb)
+
+2. Wiki Scarping [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week06_Architecture_and_DataExtraction/2_wiki_scraping_example.ipynb)
+
+3. REST API [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week06_Architecture_and_DataExtraction/3_REST_API_extraction.ipynb)
+
+4. Selenium [![Open In Colab](https://raw.githubusercontent.com/pvateekul/2110446_DSDE_2024s2/main/image/colab-badge.svg)](https://colab.research.google.com/github/pvateekul/2110446_DSDE_2024s2/blob/main/code/Week06_Architecture_and_DataExtraction/4_selenium.ipynb)
